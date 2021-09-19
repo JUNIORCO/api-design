@@ -102,3 +102,4 @@ Status code 400
 
 Written in `Typescript`, making use of interfaces, enums, and generics for clean, extensible, and maintainable code
 
+API calls are done concurrently using `Promise.all()` to make the service faster
